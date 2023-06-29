@@ -1,1 +1,2 @@
 # odin-recipes
+at the end of this course i will have the knowledge of html, css, and java script to builed the most complex webpages and websites and have a good understanding about the git, git hub and how to use vs code properly as a expert. 
